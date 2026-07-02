@@ -18,7 +18,7 @@ Workflows let you automate tasks like building, testing, or deploying your code,
 
 1. In the **Code** tab of your repository, create a new branch named `welcome-workflow`.
 
-   <img width="400" alt="create branch screenshot" src="../images/create-branch-screenshot.png" />
+   <img width="400" alt="create branch screenshot" src="https://github.com/donaldraph/thehub-actions/blob/main/.github/images/create-branch-screenshot.png?raw=true" />
 
 1. In the `welcome-workflow` branch, navigate to the `.github/workflows` directory.
 
